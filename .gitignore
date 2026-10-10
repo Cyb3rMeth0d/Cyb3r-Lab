@@ -1,0 +1,4 @@
+node_modules/
+/library/**
+!/library/.gitkeep
+npm-debug.log*
